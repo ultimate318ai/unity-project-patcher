@@ -473,6 +473,8 @@ Ok so this is done in two ways:
 - Cult of the Lamb
     - Asset Ripper bug is preventing this one
 
+## Community wrappers
+- [Captain of Industry](https://gitlab.com/AntonDziuin/coi_project-wrapper)
 <br/>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B6R2Z9U)

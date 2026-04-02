@@ -10,7 +10,7 @@ namespace Nomnom.UnityProjectPatcher.Editor.Steps {
         public UniTask<StepResult> Run() {
             EditorUtility.DisplayProgressBar("Installing packages", "Installing TMP Essential Resources", 1f);
             try {
-                AssetDatabase.ImportPackage("Packages/com.unity.textmeshpro/Package Resources/TMP Essential Resources.unitypackage", false);
+                AssetDatabase.ImportPackage("Packages/com.unity.ugui/Package Resources/TMP Essential Resources.unitypackage", false);
             } catch {
                 Debug.LogError("Failed to install TMP Essential Resources package");
             }
